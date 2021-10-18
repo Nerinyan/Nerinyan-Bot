@@ -1,0 +1,3 @@
+pathlib
+mysql-connector
+colored
